@@ -18,17 +18,14 @@ The data source for this analysis is from the University of Oxford - Blavatnik S
 You can read more information about the project here:
 > [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
 
-The raw CSV dataset is updated daily and can be acquired from here:
+The raw CSV dataset is updated daily and can be acquired from here of from the data folder on this repository:
 > [OxCGRT latest CSV file](https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv)
-> You can also download this CSV file from the data folder on this repository
 
 Data use policy:
 > Creative Commons Attribution CC BY standard. This data is provided free of charge.
 
 Recommended citation:
 > Thomas Hale, Tilbe Atav, Laura Hallas, Beatriz Kira, Toby Phillips, Anna Petherick, Annalena Pott. Variation in US states’ responses to COVID-19. Blavatnik School of Government
-
-
 
 The dataset contains the indicators in four groups. For the purpose of this analysis, we concentrate on the relationship of containment & closure policies and health system policies.
 - C - containment and closure policies
@@ -61,3 +58,8 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 This analysis is conducted using the Python Jupyter Notebook. You should have Anaconda software installed on your machine. The software is free and available for download on the website [Anconda](https://www.anaconda.com/)
 
 The Jupyter Notebook has all the detail steps by steps showing the analysis. It also has the comment markup text throughtout the notebook. This will ensure, the instruction is clear and the process is straightforward so that future users can reproduce this analysis easily. 
+
+### Helpful Notes
+- This is an ongoing data collection of live data around the world. Every country has different reporting structure, therefore, not all countries have the same updates on the same pace. Where there are delays, the dataset reflects the missing data respectively.
+
+- This dataset is updated daily by a great team of contribution from people around the world. Our world changes rapidly as well as data throughout this crisis, there is a chance of inaccuracies in the underlying data. This will be corrected when report.
