@@ -53,6 +53,13 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 | H5 | `H5_Investment in vaccines` | Announced public spending on Covid-19 vaccine development <br/><br/>Note: only record amount additional to previously announced spending | USD | Record monetary value in USD <br/>0 - no new spending that day <br/>Blank - no data |
 | H6 | `H6_Facial Coverings` | Record policies on the use of facial coverings outside the home <br/> | Ordinal scale | 0 - No policy <br/>1 - Recommended <br/>2 - Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible <br/>3 - Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible <br/>4 - Required outside the home at all times regardless of location or presence of other people |
 
+### Stringency and Policy Indices
+OxCGRT collects publicly available information of government responses. The data from the indicators is aggregated into a set of four common indices, reporting a number between 1 and 100 to reflect the level of government action on the topics in question:
+
+- An overall government response index (which records how the response of governments has varied over all indicators in the database, becoming stronger or weaker over the course of the outbreak);
+- A containment and health index (which combines ‘lockdown’ restrictions and closures with measures such as testing policy and contact tracing, short term investment in healthcare, as well investments in vaccine)
+- An economic support index (which records measures such as income support and debt relief)
+- The original stringency index (which records the strictness of ‘lockdown style’ policies that primarily restrict people’s behaviour).
 
 ### How to run the Jupyter Notebook
 This analysis is conducted using the Python Jupyter Notebook. You should have Anaconda software installed on your machine. The software is free and available for download on the website [Anaconda](https://www.anaconda.com/)
@@ -63,3 +70,5 @@ The Jupyter Notebook has all the detail steps by steps showing the analysis. It 
 - This is an ongoing data collection of live data around the world. Every country has different reporting structure, therefore, not all countries have the same updates on the same pace. Where there are delays, the dataset reflects the missing data respectively.
 
 - This dataset is updated daily by a great team of contribution from people around the world. Our world changes rapidly as well as data throughout this crisis, there is a chance of inaccuracies in the underlying data. If you notice any incorrect data, you can report this directly to the team at [Oxford COVID 19 Tracker](https://forms.office.com/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPkVPwT6t5-mtCnZ6_s5yQ4ppUME9NOUtYRkxLVldLUVFERTRTMEJSRkZITC4u)
+
+- Note that these stringency indices simply record the number and strictness of government policies, and should not be interpreted as ‘scoring’ the appropriateness or effectiveness of a country’s response. A higher position in an index does not necessarily mean that a country's response is ‘better’ than others lower on the index.
