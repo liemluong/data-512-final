@@ -15,16 +15,16 @@ My motivation to choose this topic is simple: learning something from the past c
 ### About the Data:
 The data source for this analysis is from the University of Oxford - Blavatnik School of Government. In particular, the Oxford COVID-19 Government Response Tracker (OxCGRT) is the main source where it is a comprehensive dataset collected by many volunteers around the world on many diferent common policy responses that governments have taken to respond to the pandemic. It now has data from more than 180 countries.
 
-#### About Oxford COVID-19 Government Response Tracker: 
-* https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+You can read more information about the project here:
+> [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
 
-#### Dataset:
-* https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv
+The raw CSV dataset is updated daily and can be acquired from here:
+> [OxCGRT latest CSV file](https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv)
 
-#### Data use policy:
-* Creative Commons Attribution CC BY standard. This data is provided free of charge.
+Data use policy:
+> Creative Commons Attribution CC BY standard. This data is provided free of charge.
 
-#### Recommended citation:
+Recommended citation:
 > Thomas Hale, Tilbe Atav, Laura Hallas, Beatriz Kira, Toby Phillips, Anna Petherick, Annalena Pott. Variation in US states’ responses to COVID-19. Blavatnik School of Government
 
 The dataset contains the indicators in four groups. For the purpose of this analysis, we concentrate on the relationship of containment & closure policies and health system policies.
