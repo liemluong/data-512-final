@@ -20,7 +20,7 @@ We are living in a connected world. Each of us play an important role in fightin
 * Creative Commons Attribution CC BY standard. This data is provided free of charge.
 
 #### Recommended citation:
-* Thomas Hale, Tilbe Atav, Laura Hallas, Beatriz Kira, Toby Phillips, Anna Petherick, Annalena Pott. Variation in US states’ responses to COVID-19. Blavatnik School of Government.
+> Thomas Hale, Tilbe Atav, Laura Hallas, Beatriz Kira, Toby Phillips, Anna Petherick, Annalena Pott. Variation in US states’ responses to COVID-19. Blavatnik School of Government
 
 The dataset contains the indicators in four groups. For the purpose of this analysis, we concentrate on the relationship of containment & closure policies and health system policies.
 - C - containment and closure policies
