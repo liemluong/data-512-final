@@ -58,6 +58,6 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 
 
 ### How to run the Jupyter Notebook
-This analysis is conducted using the Python Jupyter Notebook. 
+This analysis is conducted using the Python Jupyter Notebook. You should have Anaconda software installed on your machine. The software is free and available for download on the website [Anconda](https://www.anaconda.com/)
 
 The Jupyter Notebook has all the detail steps by steps showing the analysis. It also has the comment markup text throughtout the notebook. This will ensure, the instruction is clear and the process is straightforward so that future users can reproduce this analysis easily. 
