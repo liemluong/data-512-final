@@ -20,12 +20,15 @@ You can read more information about the project here:
 
 The raw CSV dataset is updated daily and can be acquired from here:
 > [OxCGRT latest CSV file](https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv)
+> You can also download this CSV file from the data folder on this repository
 
 Data use policy:
 > Creative Commons Attribution CC BY standard. This data is provided free of charge.
 
 Recommended citation:
 > Thomas Hale, Tilbe Atav, Laura Hallas, Beatriz Kira, Toby Phillips, Anna Petherick, Annalena Pott. Variation in US states’ responses to COVID-19. Blavatnik School of Government
+
+
 
 The dataset contains the indicators in four groups. For the purpose of this analysis, we concentrate on the relationship of containment & closure policies and health system policies.
 - C - containment and closure policies
@@ -52,3 +55,9 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 | H4 | `H4_Emergency investment in healthcare` | Announced short term spending on healthcare system, eg hospitals, masks, etc <br/><br/>Note: only record amount additional to previously announced spending | USD | Record monetary value in USD <br/>0 - no new spending that day <br/>Blank - no data |
 | H5 | `H5_Investment in vaccines` | Announced public spending on Covid-19 vaccine development <br/><br/>Note: only record amount additional to previously announced spending | USD | Record monetary value in USD <br/>0 - no new spending that day <br/>Blank - no data |
 | H6 | `H6_Facial Coverings` | Record policies on the use of facial coverings outside the home <br/> | Ordinal scale | 0 - No policy <br/>1 - Recommended <br/>2 - Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible <br/>3 - Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible <br/>4 - Required outside the home at all times regardless of location or presence of other people |
+
+
+### How to run the Jupyter Notebook
+This analysis is conducted using the Python Jupyter Notebook. 
+
+The Jupyter Notebook has all the detail steps by steps showing the analysis. It also has the comment markup text throughtout the notebook. This will ensure, the instruction is clear and the process is straightforward so that future users can reproduce this analysis easily. 
