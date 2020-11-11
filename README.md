@@ -55,11 +55,11 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 
 
 ### How to run the Jupyter Notebook
-This analysis is conducted using the Python Jupyter Notebook. You should have Anaconda software installed on your machine. The software is free and available for download on the website [Anconda](https://www.anaconda.com/)
+This analysis is conducted using the Python Jupyter Notebook. You should have Anaconda software installed on your machine. The software is free and available for download on the website [Anaconda](https://www.anaconda.com/)
 
 The Jupyter Notebook has all the detail steps by steps showing the analysis. It also has the comment markup text throughtout the notebook. This will ensure, the instruction is clear and the process is straightforward so that future users can reproduce this analysis easily. 
 
 ### Helpful Notes
 - This is an ongoing data collection of live data around the world. Every country has different reporting structure, therefore, not all countries have the same updates on the same pace. Where there are delays, the dataset reflects the missing data respectively.
 
-- This dataset is updated daily by a great team of contribution from people around the world. Our world changes rapidly as well as data throughout this crisis, there is a chance of inaccuracies in the underlying data. This will be corrected when report.
+- This dataset is updated daily by a great team of contribution from people around the world. Our world changes rapidly as well as data throughout this crisis, there is a chance of inaccuracies in the underlying data. If you notice any incorrect data, you can report this directly to the team at [Oxford COVID 19 Tracker](https://forms.office.com/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPkVPwT6t5-mtCnZ6_s5yQ4ppUME9NOUtYRkxLVldLUVFERTRTMEJSRkZITC4u)
