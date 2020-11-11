@@ -4,11 +4,16 @@
 
 --------------------------------------------------------------------
 
-### Summary
-We are living in a connected world. Each of us play an important role in fighting the COVID together. Tracking the total coronavirus cases daily is important. However, I want to explore the relationship of the current pandemic and the government policy responses in our connected world. That can potentially provide interesting story. Eventually, it benefits the people from human center perspective.
+### Summary:
+We are living in a connected world. Each of us play an important role in fighting the COVID together. Tracking the total coronavirus cases daily is important. However, the relationship between the current pandemic and the government policy responses is noteworthy. That can potentially provide an interesting story. Eventually, it benefits the people from human center perspective.
+
+COVID-19 is surely the most search keyword on the internet currently and the most talked topic in the news in 2020. The impact of the coronavirus can be seen everywhere. This is considered the most casualty pandemic in humankind. It touches every corner of the world: people, economy, government, school, and travel.
+
+My motivation to choose this topic is simple: learning something from the past can be helpful for dealing with the future problems. Considering this analysis, I hope it will be a great contribution to the human knowledge. Most importantly, something for the future readers to look back to be well-equipped for future pandemics.
 
 
-### Data Source:
+### About the Data:
+The data source for this analysis is from the University of Oxford - Blavatnik School of Government. In particular, the Oxford COVID-19 Government Response Tracker (OxCGRT) is the main source where it is a comprehensive dataset collected by many volunteers around the world on many diferent common policy responses that governments have taken to respond to the pandemic. It now has data from more than 180 countries.
 
 #### About Oxford COVID-19 Government Response Tracker: 
 * https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
