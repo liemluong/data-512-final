@@ -40,6 +40,7 @@ The data source for this analysis is from the University of Oxford - Blavatnik S
 
 #### The dataset:
 > Dataset is updated daily and can be acquired from here or from the data folder on this repository:
+
 > [OxCGRT latest CSV file](https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv)
 
 #### Data use policy:
