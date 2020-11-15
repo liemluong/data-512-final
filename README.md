@@ -35,16 +35,17 @@ This research is set up in a way for reproducibility. Sharing knowledge and outc
 ### About the Data
 The data source for this analysis is from the University of Oxford - Blavatnik School of Government. In particular, the Oxford COVID-19 Government Response Tracker (OxCGRT) is the main source where it is a comprehensive dataset collected by many volunteers around the world on many diferent common policy responses that governments have taken to respond to the pandemic. It now has data from more than 180 countries.
 
-You can read more information about the project here:
+#### About the Oxford COVID Tracker:
 > [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
 
-The raw CSV dataset is updated daily and can be acquired from here or from the data folder on this repository:
+#### The dataset:
+> Dataset is updated daily and can be acquired from here or from the data folder on this repository:
 > [OxCGRT latest CSV file](https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv)
 
-Data use policy:
+#### Data use policy:
 > Creative Commons Attribution CC BY standard. This data is provided free of charge.
 
-Recommended citation:
+#### Recommended citation:
 > Thomas Hale, Tilbe Atav, Laura Hallas, Beatriz Kira, Toby Phillips, Anna Petherick, Annalena Pott. Variation in US states’ responses to COVID-19. Blavatnik School of Government
 
 The dataset contains the indicators in four groups. For the purpose of this analysis, we concentrate on the relationship of containment & closure policies and health system policies.
@@ -73,7 +74,7 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 | H5 | `H5_Investment in vaccines` | Announced public spending on Covid-19 vaccine development <br/><br/>Note: only record amount additional to previously announced spending | USD | Record monetary value in USD <br/>0 - no new spending that day <br/>Blank - no data |
 | H6 | `H6_Facial Coverings` | Record policies on the use of facial coverings outside the home <br/> | Ordinal scale | 0 - No policy <br/>1 - Recommended <br/>2 - Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible <br/>3 - Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible <br/>4 - Required outside the home at all times regardless of location or presence of other people |
 
-### Stringency and Policy Indices
+#### Stringency and Policy Indices
 OxCGRT collects publicly available information of government responses. The data from the indicators is aggregated into a set of four common indices, reporting a number between 1 and 100 to reflect the level of government action on the topics in question:
 
 - An overall government response index (which records how the response of governments has varied over all indicators in the database, becoming stronger or weaker over the course of the outbreak);
