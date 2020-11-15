@@ -1,6 +1,7 @@
-##  University of Washington
-### Project: COVID-19, its impact and the government policy response
-### Liem Luong
+##  COVID-19, its impact and the government policy response
+Liem Luong
+University of Washington
+11/5/2020
 
 --------------------------------------------------------------------
 
