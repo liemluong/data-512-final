@@ -7,7 +7,7 @@ University of Washington
 
 --------------------------------------------------------------------
 
-### Summary:
+### Summary
 We are living in a connected world. Each of us play an important role in fighting the COVID together. Tracking the total coronavirus cases daily is important. However, the relationship between the current pandemic and the government policy responses is noteworthy. That can potentially provide an interesting story. Eventually, it benefits the people from human center perspective.
 
 COVID-19 is surely the most search keyword on the internet currently and the most talked topic in the news in 2020. The impact of the coronavirus can be seen everywhere. This is considered the most casualty pandemic in humankind. It touches every corner of the world: people, economy, government, school, and travel.
@@ -32,7 +32,7 @@ This research is set up in a way for reproducibility. Sharing knowledge and outc
 | Analysis | folder contains Jupyter Notebook of the main analysis |
 
 
-### About the Data:
+### About the Data
 The data source for this analysis is from the University of Oxford - Blavatnik School of Government. In particular, the Oxford COVID-19 Government Response Tracker (OxCGRT) is the main source where it is a comprehensive dataset collected by many volunteers around the world on many diferent common policy responses that governments have taken to respond to the pandemic. It now has data from more than 180 countries.
 
 You can read more information about the project here:
