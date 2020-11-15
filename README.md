@@ -12,7 +12,21 @@ We are living in a connected world. Each of us play an important role in fightin
 
 COVID-19 is surely the most search keyword on the internet currently and the most talked topic in the news in 2020. The impact of the coronavirus can be seen everywhere. This is considered the most casualty pandemic in humankind. It touches every corner of the world: people, economy, government, school, and travel.
 
-My motivation to choose this topic is simple: learning something from the past can be helpful for dealing with the future problems. Considering this analysis, I hope it will be a great contribution to the human knowledge. Most importantly, something for the future readers to look back to be well-equipped for future pandemics.
+My motivation to choose this topic is simple: learning something from the past can be helpful for dealing with the future problems. Considering this analysis, I hope it will be a great contribution to the human knowledge. Most importantly, something for the future readers to look back to be well-equipped for future pandemics. In particular, i want to find out the answer for my research qurstion and confirmation of my hypothesis: 
+- Research Question: What is the impact of the combination of government policies on the COVID confirmed cases around the world?
+
+- Hypothesis: Containment and closure policies (travel restriction, school closing, restrict public gathering) may help to contain the COVID spreading cases better than health policies (contact tracing and facial covering)
+
+### Reproducibility
+This research is set up in a way for reproducibility. Sharing knowledge and outcome are essential, making it easy for people to reproduce the same result is critical as well. The repository includes the following components for future readers:
+| Components | Description|
+| --- | --- |
+| README | Overall information about the research project|
+| LICENSE | Information about the license of this research on this repository
+| Final Project Proposal | Information about the project: motivation, data, methodology, background, etc. |
+| Data | folder contains raw data source for the project |
+| Image | folder contains visualizations and chart images |
+| Analysis | folder contains Jupyter Notebook of the main analysis |
 
 
 ### About the Data:
