@@ -17,6 +17,9 @@ My motivation to choose this topic is simple: learning something from the past c
 
 - Hypothesis: Containment and closure policies (travel restriction, school closing, restrict public gathering) may help to contain the COVID spreading cases better than health policies (contact tracing and facial covering)
 
+Following the analysis report from the start to end, we will find out the answer for the research question as well as the hypothesis.
+
+
 ### Reproducibility
 This research is set up in a way for reproducibility. Sharing knowledge and outcome are essential, making it easy for people to reproduce the same result is critical as well. The repository includes the following components for future readers:
 | Components | Description|
