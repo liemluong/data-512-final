@@ -35,7 +35,7 @@ The data source for this analysis is from the University of Oxford - Blavatnik S
 You can read more information about the project here:
 > [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
 
-The raw CSV dataset is updated daily and can be acquired from here of from the data folder on this repository:
+The raw CSV dataset is updated daily and can be acquired from here or from the data folder on this repository:
 > [OxCGRT latest CSV file](https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv)
 
 Data use policy:
