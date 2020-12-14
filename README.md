@@ -1,4 +1,4 @@
-##  COVID-19, its impact and the government policy response
+##  Are Social distance and wearing masks good in fighting COVID-19? Let's find out. 
 Liem Luong
 
 University of Washington
