@@ -13,12 +13,21 @@ We are living in a connected world. Each of us play an important role in fightin
 COVID-19 is surely the most search keyword on the internet currently and the most talked topic in the news in 2020. The impact of the coronavirus can be seen everywhere. This is considered the most casualty pandemic in humankind. It touches every corner of the world: people, economy, government, school, and travel.
 
 My motivation to choose this topic is simple: learning something from the past can be helpful for dealing with the future problems. Considering this analysis, I hope it will be a great contribution to the human knowledge. Most importantly, something for the future readers to look back to be well-equipped for future pandemics. In particular, i want to find out the answer for my research qurstion and confirmation of my hypothesis: 
-- Research Question: What is the impact of the combination of government policies on the COVID confirmed cases around the world?
+- Research Question: 
+  > What is the impact of the combination of government policies on the COVID confirmed cases around the world?
 
-- Hypothesis: Containment and closure policies (travel restriction, school closing, restrict public gathering) may help to contain the COVID spreading cases better than health policies (contact tracing and facial covering)
+- Hypothesis: 
+  > Practicing social distance policy (restrict public gathering) reduces the risk of COVID infection better than health practice policy (wearing mask)
 
-Following the analysis report from the start to end, we will find out the answer for the research question as well as the hypothesis.
+  > Following the health practice policy (Wearing a mask) is more effective in contain the virus spreading than social distance policy (staying at home requirement)
 
+
+
+### Result Findings
+Following the analysis report from the start to end, I found the answers.
+- The answer to the research question is that a combination of government policies (C4, C6, and H6) are more effective in preventing COVID spreading. One policies alone is not optimal. The strength of the group policies (social distance and facial coverings) solidifies the shield protection in reducing the confirmed cases.
+- From the findings in the analysis, this confirms the first hypothesis that restriction on public gathering policy reduces the risk of COVID infection better than wearing mask. The more we follow on not gathering with large group of people, the less interaction we have to face. Hence, this is the best approach to not contract to COVID. Wearing mask and attending group gathering in close contact still has a risk of exposure.
+- From the finding of the analysis, this confirms the second hypothesis that wearing mask is more effective in contain the virus spreading than social distance policy (stay at home requirement). This conclusion is correct but there is a caveat in detail. This hypothesis works well especially in the Asian countries and places where wearing mask is an essential part of life.
 
 ### Reproducibility
 This research is set up in a way for reproducibility. Sharing knowledge and outcome are essential, making it easy for people to reproduce the same result is critical as well. The repository includes the following components for future readers:
@@ -26,10 +35,9 @@ This research is set up in a way for reproducibility. Sharing knowledge and outc
 | --- | --- |
 | README | Overall information about the research project|
 | LICENSE | Information about the license of this research on this repository
-| Final Project Proposal | Information about the project: motivation, data, methodology, background, etc. |
+| Final Project Report | Information about the project: motivation, data, methodology, background, etc. |
 | Data | folder contains raw data source for the project |
 | Image | folder contains visualizations and chart images |
-| Analysis | folder contains Jupyter Notebook of the main analysis |
 
 
 ### About the Data
@@ -94,3 +102,5 @@ The Jupyter Notebook has all the detail steps by steps showing the analysis. It 
 - This dataset is updated daily by a great team of contribution from people around the world. Our world changes rapidly as well as data throughout this crisis, there is a chance of inaccuracies in the underlying data. If you notice any incorrect data, you can report this directly to the team at [Oxford COVID 19 Tracker](https://forms.office.com/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPkVPwT6t5-mtCnZ6_s5yQ4ppUME9NOUtYRkxLVldLUVFERTRTMEJSRkZITC4u)
 
 - Note that these stringency indices simply record the number and strictness of government policies, and should not be interpreted as ‘scoring’ the appropriateness or effectiveness of a country’s response. A higher position in an index does not necessarily mean that a country's response is ‘better’ than others lower on the index.
+
+- On the Final Project Report (Jupyter Notebook), there is a Table of Contents. This helps you to navigate around the long report efficiently when you follow the report. It works well on all web browsers. There is one minor limitation. If you view the Jupyter Notebook directly rendered in the GitHub, the navigation HTML of Table of Contents wont work. Hence, for better experience you can download the Jupyter Notebook and open it on your local machine.
