@@ -22,6 +22,15 @@ My motivation to choose this topic is simple: learning something from the past c
   > Following the health practice policy (Wearing a mask) is more effective in contain the virus spreading than social distance policy (staying at home requirement)
 
 
+### Implementation
+Below are the major steps I performed in this project
+1. Identify the focus of the analysis (narrow down the scope to two major policies) 
+2. Download the data from the source. Perform the data clean up and data transformation
+3. Group data into specific regions that has major activities on COVID: Americas, Europe, Asia
+3. Perform statistical analysis of the dataset to understand the overview of relationship
+4. Perform Exploratory Data Analysis (EDA) to review the insights and hidden blind spots from the dataset
+5. Review findings, implication, and limitation
+6. Conclusion
 
 ### Result Findings
 Following the analysis report from the start to end, I found the answers.
