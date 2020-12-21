@@ -93,12 +93,19 @@ The dataset contains the indicators in four groups. For the purpose of this anal
 | H6 | `H6_Facial Coverings` | Record policies on the use of facial coverings outside the home <br/> | Ordinal scale | 0 - No policy <br/>1 - Recommended <br/>2 - Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible <br/>3 - Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible <br/>4 - Required outside the home at all times regardless of location or presence of other people |
 
 #### Stringency and Policy Indices
-OxCGRT collects publicly available information of government responses. The data from the indicators is aggregated into a set of four common indices, reporting a number between 1 and 100 to reflect the level of government action on the topics in question:
+Below are the detail descriptions (in quote) of the data characteristic from OxCGRT
+
+"OxCGRT collects publicly available information on 18 indicators of government responses. Eight of the policy indicators (C1-C8) record information on containment and closure policies, such as school closures and restrictions in movement. Four of the indicators (E1-E4) record economic policies, such as income support to citizens or provision of foreign aid. Six of the indicators (H1-H6) record health system policies such as the COVID-19 testing regime or emergency investments into healthcare.
+
+The data from the 18 indicators is aggregated into a set of four common indices, reporting a number between 1 and 100 to reflect the level of government action on the topics in question:
 
 - An overall government response index (which records how the response of governments has varied over all indicators in the database, becoming stronger or weaker over the course of the outbreak);
+
 - A containment and health index (which combines ‘lockdown’ restrictions and closures with measures such as testing policy and contact tracing, short term investment in healthcare, as well investments in vaccine)
+
 - An economic support index (which records measures such as income support and debt relief)
-- The original stringency index (which records the strictness of ‘lockdown style’ policies that primarily restrict people’s behaviour).
+
+- The original stringency index (which records the strictness of ‘lockdown style’ policies that primarily restrict people’s behaviour). "
 
 ### How to run the Jupyter Notebook
 This analysis is conducted using the Python Jupyter Notebook. You should have Anaconda software installed on your machine. The software is free and available for download on the website [Anaconda](https://www.anaconda.com/)
